@@ -24,7 +24,7 @@ Microwave oven implementation in vanilla JavaScript. Fun yet challenging learnin
 3.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8080`!
-    Open the `learn-js-microwave` directory in your code editor of choice and editing files under the `public/` folder until you are happy with the result.
+    Open the `learn-js-microwave` directory in your code editor of choice and editing files under the [public/](/public/) folder until you are happy with the result.
 
 
 ## Materials & prerequisites
