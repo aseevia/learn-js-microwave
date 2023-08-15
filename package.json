@@ -1,0 +1,18 @@
+{
+  "name": "learn-js-microwave",
+  "description": "Microwave oven implementation in vanilla JavaScript. Fun and challenging frontend learning project.",
+  "version": "1.0.0",
+  "homepage": "https://aseevia.github.io/learn-js-microwave",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server public",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d public"
+  },
+  "author": "Ivan Aseev",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "gh-pages": "^6.0.0",
+    "http-server": "^14.1.1"
+  }
+}
