@@ -42,7 +42,7 @@ Microwave oven implementation in vanilla JavaScript. Fun yet challenging learnin
 
 ## Implementation requirements
 - Users should be able to open and close the door and place food inside the device.
-- Uses should be able to start the cooking process.
+- Users should be able to start the cooking process.
 - Cooking process should start the timer for 30 seconds by default, process stops when the timer reaches 0.
 - Users should be able to extend cooking timer in 30 secord increments at any time during the cooking process.
 - Starting of the cooking process is only possible when the device door is closed.
